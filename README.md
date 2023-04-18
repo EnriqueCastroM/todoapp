@@ -36,3 +36,6 @@ Si encuentra algún problema o tiene alguna pregunta, no dude en ponerse en cont
 ## Licencia
 
 GestionTareas está licenciado bajo la licencia MIT. Consulte el archivo `LICENSE` para obtener más detalles.
+
+## Nota de seguridad
+El archivo ejecutable es seguro y proviene de una fuente confiable. Los archivos ejecutables pueden ser considerados sospechosos, especialmente si se comparten a través de enlaces de descarga o mensajes de correo electrónico
